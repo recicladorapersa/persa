@@ -1,0 +1,8 @@
+@yield('contenido')
+
+@extends('persa.inicio')
+
+
+@section('contenido')
+
+background-color: #D5D4DC; */

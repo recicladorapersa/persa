@@ -1,0 +1,11 @@
+@import url("bootstrap.css");
+@import url("style.css");
+@import url("font-awesome.css");
+@import url("jquery.bxslider.css");
+@import url("ihover.css");
+@import url("jquery-ui.css");
+@import url("prettyPhoto.css");
+/*******Revolution Slider*********/
+@import url("../js/plugins/revolution/css/extralayers.css");
+@import url("../js/plugins/revolution/css/settings.css");
+@import url("../js/plugins/revolution/css/style.css");
